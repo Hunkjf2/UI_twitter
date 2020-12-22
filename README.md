@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `yarn`
 
+<img src="src/img/twiter.png">
+
 Install Packpage
 
 In the project directory, you can run:
